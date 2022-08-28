@@ -4,7 +4,9 @@ Lightweight CouchDB wrapper for Laravel. CouchEloquent has a similar syntax like
 Mango Query is used to process all requests.
 
 ## Installation
-
+```
+composer require sinemah/coucheloquent
+```
 ## Configuration
 Create a file named `couchdb.php` on your config folder or copy the included from vendor.
 ```php
